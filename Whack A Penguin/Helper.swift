@@ -1,10 +1,9 @@
 //
 //  Helper.swift
-//  Project11
+//  Whack A Penguin
 //
-//  Created by Hudzilla on 22/11/2014.
-//  Copyright (c) 2014 Hudzilla. All rights reserved.
-//
+//  Created by Joshua Hudson on 4/28/17.
+//  Copyright © 2017 ParanoidPenguinProductions. All rights reserved.
 
 import Foundation
 import UIKit
